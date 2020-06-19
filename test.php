@@ -4,7 +4,7 @@
 //$_SESSION['test2'] = 'Aramis';
 //$_SESSION['test3'] = 'John';
 //$_SESSION['test4'] = 'Tony';
-//
+//ssff
 //
 //$output = array('countM' => count($_SESSION));
 //
